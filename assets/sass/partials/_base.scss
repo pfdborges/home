@@ -1,0 +1,39 @@
+html{
+	@include box-sizing(border-box);
+}
+
+body, input, textarea, select, button {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	-moz-font-feature-settings: "liga", "kern";
+}
+
+body{
+	background-color: $white;
+	color: $text-color;
+	font-style: normal;
+	font-family: $primary-font;
+	font-size: $unit_base-font-size;
+	line-height: $unit_base-line-height;
+	font-weight: 400;
+}
+
+// p{
+// 	//background: $light-grey;
+// 	font-family: $primary-font;
+// 	font-size: 85%;
+// 	line-height: 2em;
+// 	font-weight: bold;
+// 	color: $text-color;
+// 	padding: $unit_one-em;
+// 	//min-height:120px;
+// }
+
+a{
+	@include transition-property(all);
+	@include transition-duration(.25s);
+	@include transition-timing-function(ease-in-out);
+	text-decoration: none;
+}
+

@@ -1,0 +1,27 @@
+@import	url("http://fonts.googleapis.com/css?family=Montserrat:400,700");
+@import	url("http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic");
+
+/** Compass **/
+@import "compass";
+
+/** Variables & Base **/
+@import "variables";
+
+/** Partials **/
+@import "partials/reset";
+@import "partials/normalize";
+@import "partials/base";
+@import "partials/animations";
+@import "partials/media-queries";
+
+//@import "partials/boxes";
+@import "partials/home";
+
+/** Vendors styles **/
+// for development
+@import "../css/vendors/rwdgrid.css";
+
+// for prodution
+//@import "../css/vendors/rwdgrid.min.css";
+
+

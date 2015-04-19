@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="icon_branding" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="60px" height="60px" enable-background="new 0 0 60 60" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<circle fill="#42B4A3" cx="23.127" cy="23.129" r="22.127"/>
+		</g>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#328E7E" d="M26.399,13.182v0.003v11.093c0,3.715-3.012,6.729-6.73,6.729
+			c-1.913,0-3.63-0.807-4.854-2.087l-0.013,0.016l15.241,15.22c0,0,11.29-4.523,13.456-13.835L26.399,13.182z"/>
+	</g>
+	<g>
+		<g>
+			<path fill="#FFFFFF" d="M23.127,46.256C10.375,46.256,0,35.881,0,23.129C0,10.376,10.375,0,23.127,0s23.127,10.376,23.127,23.129
+				C46.254,35.881,35.879,46.256,23.127,46.256z M23.127,2C11.478,2,2,11.479,2,23.129c0,11.649,9.478,21.127,21.127,21.127
+				s21.127-9.478,21.127-21.127C44.254,11.479,34.776,2,23.127,2z"/>
+		</g>
+	</g>
+	<g>
+		<path fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" d="M26.399,24.277c0,3.715-3.012,6.729-6.73,6.729
+			c-3.716,0-6.729-3.014-6.729-6.729V13.182h13.46V24.277z"/>
+	</g>
+</g>
+</svg>
