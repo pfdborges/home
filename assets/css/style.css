@@ -1057,11 +1057,6 @@ section.work {
   background-color: #000;
 }
 
-/* line 264, ../sass/partials/_home.scss */
-.gd-pos-1 {
-  display: none;
-}
-
 /* line 269, ../sass/partials/_home.scss */
 section.work a {
   float: left;
