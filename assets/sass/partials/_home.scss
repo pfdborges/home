@@ -299,7 +299,8 @@ section{
 			&.link-external{
 				color: $white;
 				text-align: center;
-				padding-top: 130px;
+				//padding-top: 130px;
+				padding-top: 122px;
 				//background-color: $dark-grey;
 				background: $dribbble-color;
 				@include transition-property(all);
