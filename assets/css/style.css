@@ -794,11 +794,7 @@ a {
   background: #121314;
   min-height: 800px;
 }
-<<<<<<< HEAD
-/* line 18, ../sass/partials/_home.scss */
-=======
-/* line 20, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 19, ../sass/partials/_home.scss */
 .home .container-home .top-img {
   position: absolute;
   top: 0;
@@ -807,22 +803,14 @@ a {
   height: 845px;
   width: 100%;
 }
-<<<<<<< HEAD
-/* line 28, ../sass/partials/_home.scss */
-=======
-/* line 30, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 29, ../sass/partials/_home.scss */
 .home .container-home .intro-text {
   position: relative;
   margin: 15em auto 0 auto;
   z-index: 4;
   width: 100%;
 }
-<<<<<<< HEAD
-/* line 35, ../sass/partials/_home.scss */
-=======
-/* line 37, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 36, ../sass/partials/_home.scss */
 .home .container-home .intro-text .logo {
   margin: 0 auto;
   width: 60px;
@@ -831,11 +819,7 @@ a {
   background-size: 85%;
   z-index: 2;
 }
-<<<<<<< HEAD
-/* line 44, ../sass/partials/_home.scss */
-=======
-/* line 46, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 45, ../sass/partials/_home.scss */
 .home .container-home .intro-text h1 {
   font: 1.8em "Montserrat", sans-serif;
   color: white;
@@ -844,11 +828,7 @@ a {
   margin: 5px 0 5px 0;
   letter-spacing: -1px;
 }
-<<<<<<< HEAD
-/* line 54, ../sass/partials/_home.scss */
-=======
-/* line 56, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 55, ../sass/partials/_home.scss */
 .home .container-home .intro-text p {
   text-align: center;
   font-family: "Droid Serif", serif;
@@ -858,11 +838,7 @@ a {
   margin: 8px 0 24px;
   padding: 0 3em;
 }
-<<<<<<< HEAD
-/* line 64, ../sass/partials/_home.scss */
-=======
-/* line 66, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 65, ../sass/partials/_home.scss */
 .home .container-home .intro-text .divisor {
   display: block;
   width: 35px;
@@ -871,21 +847,13 @@ a {
   background: #434e56;
 }
 
-<<<<<<< HEAD
-/* line 74, ../sass/partials/_home.scss */
-=======
-/* line 76, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 75, ../sass/partials/_home.scss */
 section {
   margin-top: 10em;
   z-index: 4;
   position: relative;
 }
-<<<<<<< HEAD
-/* line 78, ../sass/partials/_home.scss */
-=======
-/* line 80, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 79, ../sass/partials/_home.scss */
 section.toolkit {
   background-color: #242429;
   float: left;
@@ -896,11 +864,7 @@ section.toolkit {
   margin-bottom: 0;
   top: -4px;
 }
-<<<<<<< HEAD
-/* line 88, ../sass/partials/_home.scss */
-=======
-/* line 93, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 92, ../sass/partials/_home.scss */
 section.work {
   background: #121314;
   float: left;
@@ -910,21 +874,13 @@ section.work {
   top: -2px;
 }
 
-<<<<<<< HEAD
-/* line 98, ../sass/partials/_home.scss */
-=======
-/* line 103, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 102, ../sass/partials/_home.scss */
 .section-legend {
   width: 100%;
   float: left;
   margin-bottom: 1em;
 }
-<<<<<<< HEAD
-/* line 102, ../sass/partials/_home.scss */
-=======
-/* line 107, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 106, ../sass/partials/_home.scss */
 .section-legend p {
   font-style: italic;
   text-align: center;
@@ -934,11 +890,7 @@ section.work {
   font-weight: 400;
   margin: 0px auto;
 }
-<<<<<<< HEAD
-/* line 111, ../sass/partials/_home.scss */
-=======
-/* line 116, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 115, ../sass/partials/_home.scss */
 .section-legend .divisor {
   width: 35px;
   height: 2px;
@@ -949,47 +901,27 @@ section.work {
   background: #434e56;
 }
 
-<<<<<<< HEAD
-/* line 123, ../sass/partials/_home.scss */
-=======
-/* line 128, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 127, ../sass/partials/_home.scss */
 .who-am-i {
   float: left;
   padding: 1em;
   color: white;
 }
-<<<<<<< HEAD
-/* line 129, ../sass/partials/_home.scss */
-=======
-/* line 134, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 133, ../sass/partials/_home.scss */
 .who-am-i p {
   margin: 4px 0 12px;
   line-height: 29px;
   font-size: .95em;
 }
-<<<<<<< HEAD
-/* line 134, ../sass/partials/_home.scss */
+/* line 138, ../sass/partials/_home.scss */
 .who-am-i p a {
   color: #42b4a2;
 }
-/* line 136, ../sass/partials/_home.scss */
+/* line 140, ../sass/partials/_home.scss */
 .who-am-i p a:hover {
   text-decoration: underline;
 }
-/* line 142, ../sass/partials/_home.scss */
-=======
-/* line 139, ../sass/partials/_home.scss */
-.who-am-i p a {
-  color: #42b4a2;
-}
-/* line 141, ../sass/partials/_home.scss */
-.who-am-i p a:hover {
-  text-decoration: underline;
-}
-/* line 147, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 146, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume {
   text-transform: uppercase;
   text-align: center;
@@ -1004,11 +936,7 @@ section.work {
   overflow: hidden;
   position: relative;
 }
-<<<<<<< HEAD
-/* line 157, ../sass/partials/_home.scss */
-=======
-/* line 162, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 161, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume .text {
   color: #42b4a2;
   position: relative;
@@ -1026,11 +954,7 @@ section.work {
   -webkit-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
 }
-<<<<<<< HEAD
-/* line 165, ../sass/partials/_home.scss */
-=======
-/* line 170, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 169, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume .holder {
   width: 110%;
   height: 44px;
@@ -1046,11 +970,7 @@ section.work {
   -webkit-transition: all;
   transition: all;
 }
-<<<<<<< HEAD
-/* line 176, ../sass/partials/_home.scss */
-=======
-/* line 181, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 180, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume .holder .circle {
   position: absolute;
   top: 50%;
@@ -1082,19 +1002,11 @@ section.work {
   -webkit-animation: zoom-out 0.25s forwards;
   animation: zoom-out 0.25s forwards;
 }
-<<<<<<< HEAD
-/* line 195, ../sass/partials/_home.scss */
-.who-am-i a.btn-resume:hover .text {
-  color: white;
-}
 /* line 199, ../sass/partials/_home.scss */
-=======
-/* line 200, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume:hover .text {
   color: white;
 }
-/* line 204, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 203, ../sass/partials/_home.scss */
 .who-am-i a.btn-resume:hover .holder .circle {
   -moz-animation: zoom-in 0.25s forwards;
   -webkit-animation: zoom-in 0.25s forwards;
@@ -1105,108 +1017,64 @@ section.work {
   transition: all;
 }
 
-<<<<<<< HEAD
-/* line 208, ../sass/partials/_home.scss */
-.speciality-content {
-  margin-top: 1.5em;
-}
 /* line 212, ../sass/partials/_home.scss */
-=======
-/* line 213, ../sass/partials/_home.scss */
 .speciality-content {
   margin-top: 1.5em;
 }
-/* line 217, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 216, ../sass/partials/_home.scss */
 .speciality-content li {
   display: block;
   width: 100%;
   margin-bottom: 4.5em;
   text-align: center;
 }
-<<<<<<< HEAD
-/* line 219, ../sass/partials/_home.scss */
-=======
-/* line 224, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 223, ../sass/partials/_home.scss */
 .speciality-content li .icon {
   height: 60px;
   width: 187px;
   margin: 0 auto;
 }
-<<<<<<< HEAD
-/* line 223, ../sass/partials/_home.scss */
-=======
-/* line 228, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 227, ../sass/partials/_home.scss */
 .speciality-content li .icon p {
   margin-top: -4px;
   font-size: 0.95em;
   color: white;
   text-align: center;
 }
-<<<<<<< HEAD
-/* line 230, ../sass/partials/_home.scss */
+/* line 234, ../sass/partials/_home.scss */
 .speciality-content li .icon.art-direction svg {
   margin-left: 1em;
 }
-/* line 237, ../sass/partials/_home.scss */
-=======
-/* line 235, ../sass/partials/_home.scss */
-.speciality-content li .icon.art-direction svg {
-  margin-left: 1em;
-}
-/* line 242, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 241, ../sass/partials/_home.scss */
 .speciality-content li .icon.branding svg, .speciality-content li .icon.web svg, .speciality-content li .icon.visual-design svg {
   margin-left: 0.5em;
 }
 
-<<<<<<< HEAD
-/* line 245, ../sass/partials/_home.scss */
-=======
-/* line 250, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 249, ../sass/partials/_home.scss */
 .full-width {
   width: 100%;
   position: relative;
   max-width: 100%;
   margin-top: 3em;
 }
-<<<<<<< HEAD
-/* line 250, ../sass/partials/_home.scss */
-=======
-/* line 255, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 254, ../sass/partials/_home.scss */
 .full-width .first-row {
   float: left;
   width: 100%;
 }
-<<<<<<< HEAD
-/* line 254, ../sass/partials/_home.scss */
-=======
-/* line 259, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 258, ../sass/partials/_home.scss */
 .full-width .second-row {
   float: left;
   width: 100%;
   background-color: #000;
 }
 
-<<<<<<< HEAD
-/* line 260, ../sass/partials/_home.scss */
-=======
-/* line 265, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 264, ../sass/partials/_home.scss */
 .gd-pos-1 {
   display: none;
 }
 
-<<<<<<< HEAD
-/* line 265, ../sass/partials/_home.scss */
-=======
-/* line 270, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 269, ../sass/partials/_home.scss */
 section.work a {
   float: left;
   overflow: hidden;
@@ -1219,11 +1087,7 @@ section.work a {
   transition: false;
   cursor: pointer;
 }
-<<<<<<< HEAD
-/* line 273, ../sass/partials/_home.scss */
-=======
-/* line 278, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 277, ../sass/partials/_home.scss */
 section.work a .work-img {
   background-position: center center;
   background-size: cover;
@@ -1238,43 +1102,23 @@ section.work a .work-img {
   filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
   opacity: 0.8;
 }
-<<<<<<< HEAD
-/* line 282, ../sass/partials/_home.scss */
+/* line 286, ../sass/partials/_home.scss */
 section.work a .work-img.nr-1 {
   background-image: url(../imgs/pb/img-wallet.jpg);
 }
-/* line 285, ../sass/partials/_home.scss */
+/* line 289, ../sass/partials/_home.scss */
 section.work a .work-img.nr-2 {
   background-image: url(../imgs/pb/img-alertas.jpg);
 }
-/* line 288, ../sass/partials/_home.scss */
+/* line 292, ../sass/partials/_home.scss */
 section.work a .work-img.nr-3 {
   background-image: url(../imgs/pb/img-afm.jpg);
-}
-/* line 291, ../sass/partials/_home.scss */
-section.work a .work-img.nr-4 {
-  background-image: url(../imgs/pb/img-ca.jpg);
 }
 /* line 295, ../sass/partials/_home.scss */
-=======
-/* line 287, ../sass/partials/_home.scss */
-section.work a .work-img.nr-1 {
-  background-image: url(../imgs/pb/img-wallet.jpg);
-}
-/* line 290, ../sass/partials/_home.scss */
-section.work a .work-img.nr-2 {
-  background-image: url(../imgs/pb/img-alertas.jpg);
-}
-/* line 293, ../sass/partials/_home.scss */
-section.work a .work-img.nr-3 {
-  background-image: url(../imgs/pb/img-afm.jpg);
-}
-/* line 296, ../sass/partials/_home.scss */
 section.work a .work-img.nr-4 {
   background-image: url(../imgs/pb/img-ca.jpg);
 }
-/* line 300, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 299, ../sass/partials/_home.scss */
 section.work a.link-external {
   color: white;
   text-align: center;
@@ -1293,11 +1137,7 @@ section.work a.link-external {
   -webkit-transition-timing-function: ease-in-out;
   transition-timing-function: ease-in-out;
 }
-<<<<<<< HEAD
-/* line 304, ../sass/partials/_home.scss */
-=======
-/* line 309, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 308, ../sass/partials/_home.scss */
 section.work a.link-external .icon-dribbble {
   width: 47px;
   height: 46px;
@@ -1305,11 +1145,7 @@ section.work a.link-external .icon-dribbble {
   display: block;
   margin: 0 auto 15px;
 }
-<<<<<<< HEAD
-/* line 315, ../sass/partials/_home.scss */
-=======
-/* line 320, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 319, ../sass/partials/_home.scss */
 section.work a .mobile-mask {
   position: absolute;
   width: 100%;
@@ -1319,11 +1155,7 @@ section.work a .mobile-mask {
   background: transparent url(../imgs/pb/mobile-mask.png) repeat-x 0 0;
   display: block;
 }
-<<<<<<< HEAD
-/* line 326, ../sass/partials/_home.scss */
-=======
-/* line 331, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 330, ../sass/partials/_home.scss */
 section.work .work-desc {
   position: absolute;
   left: 2em;
@@ -1332,135 +1164,107 @@ section.work .work-desc {
   color: white;
   text-align: center;
 }
-<<<<<<< HEAD
-/* line 334, ../sass/partials/_home.scss */
-=======
-/* line 339, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 338, ../sass/partials/_home.scss */
 section.work .work-desc .work-icon {
   display: block;
   margin: 0 auto;
 }
-<<<<<<< HEAD
-/* line 337, ../sass/partials/_home.scss */
-=======
-/* line 342, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 341, ../sass/partials/_home.scss */
 section.work .work-desc .work-icon.wallet {
   background: transparent url(../imgs/svg/icon_wallet.svg) no-repeat 0 0;
   width: 41px;
   height: 36px;
 }
-<<<<<<< HEAD
-/* line 342, ../sass/partials/_home.scss */
-=======
-/* line 347, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 346, ../sass/partials/_home.scss */
 section.work .work-desc .work-icon.alertas {
   background: transparent url(../imgs/svg/icon_sapo.svg) no-repeat 0 0;
   width: 50px;
   height: 31px;
 }
-<<<<<<< HEAD
-/* line 347, ../sass/partials/_home.scss */
-=======
-/* line 352, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 351, ../sass/partials/_home.scss */
 section.work .work-desc .work-icon.afm {
   background: transparent url(../imgs/svg/icon_afm.svg) no-repeat 0 0;
   width: 44px;
   height: 44px;
 }
-<<<<<<< HEAD
-/* line 352, ../sass/partials/_home.scss */
-=======
-/* line 357, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 356, ../sass/partials/_home.scss */
 section.work .work-desc .work-icon.ca {
   background: transparent url(../imgs/svg/icon_ca.svg) no-repeat 0 0;
   width: 36px;
   height: 41px;
 }
-<<<<<<< HEAD
-/* line 358, ../sass/partials/_home.scss */
-=======
-/* line 363, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 362, ../sass/partials/_home.scss */
 section.work .work-desc .work-name {
   font-size: 1.5em;
   margin: 4px 0 0px 0;
 }
-<<<<<<< HEAD
-/* line 362, ../sass/partials/_home.scss */
-=======
-/* line 367, ../sass/partials/_home.scss */
->>>>>>> master
+/* line 366, ../sass/partials/_home.scss */
 section.work .work-desc p {
   margin: 0;
   text-transform: uppercase;
   font-size: 0.75em;
 }
 
-/* line 375, ../sass/partials/_home.scss */
+/* line 374, ../sass/partials/_home.scss */
 .tookit-container {
   margin-top: 5em;
 }
-/* line 377, ../sass/partials/_home.scss */
+/* line 376, ../sass/partials/_home.scss */
 .tookit-container ul {
   width: 100%;
   margin: 0;
   padding: 0 2em;
   float: left;
 }
-/* line 382, ../sass/partials/_home.scss */
+/* line 381, ../sass/partials/_home.scss */
 .tookit-container ul li {
   list-style: none;
   width: 50%;
   float: left;
   margin-bottom: 2.5em;
 }
-/* line 389, ../sass/partials/_home.scss */
+/* line 388, ../sass/partials/_home.scss */
 .tookit-container .tool {
   margin: 0 auto;
 }
-/* line 391, ../sass/partials/_home.scss */
+/* line 390, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-1 {
   width: 63px;
   height: 63px;
   background: transparent url(../imgs/svg/icon_photoshop.svg) no-repeat 0 0;
 }
-/* line 396, ../sass/partials/_home.scss */
+/* line 395, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-2 {
   width: 63px;
   height: 63px;
   background: transparent url(../imgs/svg/icon_illustrator.svg) no-repeat 0 0;
 }
-/* line 401, ../sass/partials/_home.scss */
+/* line 400, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-3 {
   width: 60px;
   height: 65px;
   background: transparent url(../imgs/svg/icon_html.svg) no-repeat 0 0;
 }
-/* line 406, ../sass/partials/_home.scss */
+/* line 405, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-4 {
   width: 60px;
   height: 66px;
   background: transparent url(../imgs/svg/icon_css.svg) no-repeat 0 0;
 }
-/* line 411, ../sass/partials/_home.scss */
+/* line 410, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-5 {
   width: 60px;
   height: 66px;
   background: transparent url(../imgs/svg/icon_js.svg) no-repeat 0 0;
 }
-/* line 416, ../sass/partials/_home.scss */
+/* line 415, ../sass/partials/_home.scss */
 .tookit-container .tool.kit-6 {
   width: 65px;
   height: 65px;
   background: transparent url(../imgs/svg/icon_wordpress.svg) no-repeat 0 0;
 }
 
-/* line 423, ../sass/partials/_home.scss */
+/* line 422, ../sass/partials/_home.scss */
 footer {
   width: 100%;
   height: auto;
@@ -1549,11 +1353,7 @@ footer .footer-links li a:hover {
   1200px+
 *********************************************************************************************/
 @media only screen and (min-width: 1200px) {
-<<<<<<< HEAD
-  /* line 404, ../sass/partials/_home.scss */
-=======
   /* line 534, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home {
     margin: 0 0 630px;
     overflow: visible;
@@ -1565,11 +1365,7 @@ footer .footer-links li a:hover {
     background: #121314;
     min-height: 800px;
   }
-<<<<<<< HEAD
-  /* line 414, ../sass/partials/_home.scss */
-=======
   /* line 544, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .top-img {
     position: absolute;
     top: 0;
@@ -1578,22 +1374,14 @@ footer .footer-links li a:hover {
     height: 845px;
     width: 100%;
   }
-<<<<<<< HEAD
-  /* line 423, ../sass/partials/_home.scss */
-=======
   /* line 553, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .intro-text {
     position: relative;
     margin: 24.3em auto 0 auto;
     z-index: 4;
     width: 60%;
   }
-<<<<<<< HEAD
-  /* line 428, ../sass/partials/_home.scss */
-=======
   /* line 558, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .intro-text .logo {
     margin: 0 auto;
     width: 60px;
@@ -1602,11 +1390,7 @@ footer .footer-links li a:hover {
     background-size: 100%;
     z-index: 2;
   }
-<<<<<<< HEAD
-  /* line 436, ../sass/partials/_home.scss */
-=======
   /* line 566, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .intro-text h1 {
     font: 4em "Montserrat", sans-serif;
     color: white;
@@ -1615,11 +1399,7 @@ footer .footer-links li a:hover {
     margin: 13px 0 0 0;
     letter-spacing: -1px;
   }
-<<<<<<< HEAD
-  /* line 444, ../sass/partials/_home.scss */
-=======
   /* line 574, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .intro-text p {
     text-align: center;
     font-family: "Droid Serif", serif;
@@ -1628,11 +1408,7 @@ footer .footer-links li a:hover {
     font-weight: 400;
     margin: 8px 0 24px;
   }
-<<<<<<< HEAD
-  /* line 452, ../sass/partials/_home.scss */
-=======
   /* line 582, ../sass/partials/_home.scss */
->>>>>>> master
   .home .container-home .intro-text .divisor {
     display: block;
     width: 35px;
@@ -1641,21 +1417,13 @@ footer .footer-links li a:hover {
     background: #434e56;
   }
 
-<<<<<<< HEAD
-  /* line 462, ../sass/partials/_home.scss */
-=======
   /* line 592, ../sass/partials/_home.scss */
->>>>>>> master
   section {
     margin-top: 10em;
     z-index: 4;
     position: relative;
   }
-<<<<<<< HEAD
-  /* line 466, ../sass/partials/_home.scss */
-=======
   /* line 596, ../sass/partials/_home.scss */
->>>>>>> master
   section.toolkit {
     background-color: #242429;
     float: left;
@@ -1666,11 +1434,7 @@ footer .footer-links li a:hover {
     margin-bottom: 550px;
     top: -4px;
   }
-<<<<<<< HEAD
-  /* line 476, ../sass/partials/_home.scss */
-=======
   /* line 606, ../sass/partials/_home.scss */
->>>>>>> master
   section.work {
     background: #121314;
     float: left;
@@ -1680,20 +1444,12 @@ footer .footer-links li a:hover {
     top: -2px;
   }
 
-<<<<<<< HEAD
-  /* line 486, ../sass/partials/_home.scss */
-=======
   /* line 616, ../sass/partials/_home.scss */
->>>>>>> master
   .section-legend {
     width: 50%;
     float: right;
   }
-<<<<<<< HEAD
-  /* line 489, ../sass/partials/_home.scss */
-=======
   /* line 619, ../sass/partials/_home.scss */
->>>>>>> master
   .section-legend p {
     font-style: italic;
     text-align: center;
@@ -1703,11 +1459,7 @@ footer .footer-links li a:hover {
     font-weight: 400;
     margin: 0px auto;
   }
-<<<<<<< HEAD
-  /* line 498, ../sass/partials/_home.scss */
-=======
   /* line 628, ../sass/partials/_home.scss */
->>>>>>> master
   .section-legend .divisor {
     width: 100px;
     height: 2px;
@@ -1718,11 +1470,7 @@ footer .footer-links li a:hover {
     background: #434e56;
   }
 
-<<<<<<< HEAD
-  /* line 508, ../sass/partials/_home.scss */
-=======
   /* line 638, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i {
     float: left;
     padding: 4em 10em 0 0;
@@ -1730,27 +1478,12 @@ footer .footer-links li a:hover {
     margin-left: -10px;
     color: white;
   }
-<<<<<<< HEAD
-  /* line 514, ../sass/partials/_home.scss */
-=======
   /* line 644, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i p {
     margin: 4px 0 12px;
     line-height: 34px;
     font-size: 1.08em;
   }
-<<<<<<< HEAD
-  /* line 518, ../sass/partials/_home.scss */
-  .who-am-i p a {
-    color: #42b4a2;
-  }
-  /* line 520, ../sass/partials/_home.scss */
-  .who-am-i p a:hover {
-    text-decoration: underline;
-  }
-  /* line 526, ../sass/partials/_home.scss */
-=======
   /* line 648, ../sass/partials/_home.scss */
   .who-am-i p a {
     color: #42b4a2;
@@ -1760,7 +1493,6 @@ footer .footer-links li a:hover {
     text-decoration: underline;
   }
   /* line 656, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i a.btn-resume {
     text-transform: uppercase;
     text-align: center;
@@ -1775,11 +1507,7 @@ footer .footer-links li a:hover {
     overflow: hidden;
     position: relative;
   }
-<<<<<<< HEAD
-  /* line 539, ../sass/partials/_home.scss */
-=======
   /* line 669, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i a.btn-resume .text {
     color: #42b4a2;
     position: relative;
@@ -1797,11 +1525,7 @@ footer .footer-links li a:hover {
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
   }
-<<<<<<< HEAD
-  /* line 547, ../sass/partials/_home.scss */
-=======
   /* line 677, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i a.btn-resume .holder {
     width: 110%;
     height: 44px;
@@ -1817,11 +1541,7 @@ footer .footer-links li a:hover {
     -webkit-transition: all;
     transition: all;
   }
-<<<<<<< HEAD
-  /* line 558, ../sass/partials/_home.scss */
-=======
   /* line 688, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i a.btn-resume .holder .circle {
     position: absolute;
     top: 50%;
@@ -1853,19 +1573,11 @@ footer .footer-links li a:hover {
     -webkit-animation: zoom-out 0.25s forwards;
     animation: zoom-out 0.25s forwards;
   }
-<<<<<<< HEAD
-  /* line 577, ../sass/partials/_home.scss */
-  .who-am-i a.btn-resume:hover .text {
-    color: white;
-  }
-  /* line 581, ../sass/partials/_home.scss */
-=======
   /* line 707, ../sass/partials/_home.scss */
   .who-am-i a.btn-resume:hover .text {
     color: white;
   }
   /* line 711, ../sass/partials/_home.scss */
->>>>>>> master
   .who-am-i a.btn-resume:hover .holder .circle {
     -moz-animation: zoom-in 0.25s forwards;
     -webkit-animation: zoom-in 0.25s forwards;
@@ -1876,81 +1588,49 @@ footer .footer-links li a:hover {
     transition: all;
   }
 
-<<<<<<< HEAD
-  /* line 590, ../sass/partials/_home.scss */
-=======
   /* line 720, ../sass/partials/_home.scss */
->>>>>>> master
   .speciality-content {
     margin-top: 5em;
     margin-left: -10px;
   }
-<<<<<<< HEAD
-  /* line 593, ../sass/partials/_home.scss */
-=======
   /* line 723, ../sass/partials/_home.scss */
->>>>>>> master
   .speciality-content li {
     display: inline-block;
     width: 32%;
     margin-bottom: 4.5em;
   }
-<<<<<<< HEAD
-  /* line 597, ../sass/partials/_home.scss */
-=======
   /* line 727, ../sass/partials/_home.scss */
->>>>>>> master
   .speciality-content li .icon {
     height: 60px;
     width: 187px;
   }
-<<<<<<< HEAD
-  /* line 600, ../sass/partials/_home.scss */
-=======
   /* line 730, ../sass/partials/_home.scss */
->>>>>>> master
   .speciality-content li .icon p {
     margin-top: -4px;
     font-size: 0.95em;
     color: white;
   }
 
-<<<<<<< HEAD
-  /* line 609, ../sass/partials/_home.scss */
-=======
   /* line 739, ../sass/partials/_home.scss */
->>>>>>> master
   .full-width {
     width: 100%;
     position: relative;
     max-width: 100%;
     margin-top: 3em;
   }
-<<<<<<< HEAD
-  /* line 614, ../sass/partials/_home.scss */
-=======
   /* line 744, ../sass/partials/_home.scss */
->>>>>>> master
   .full-width .first-row {
     float: left;
     width: 100%;
   }
-<<<<<<< HEAD
-  /* line 618, ../sass/partials/_home.scss */
-=======
   /* line 748, ../sass/partials/_home.scss */
->>>>>>> master
   .full-width .second-row {
     float: left;
     width: 100%;
     background-color: #000;
   }
 
-<<<<<<< HEAD
-  /* line 626, ../sass/partials/_home.scss */
-=======
   /* line 756, ../sass/partials/_home.scss */
->>>>>>> master
   section.work a {
     float: left;
     overflow: hidden;
@@ -1963,11 +1643,7 @@ footer .footer-links li a:hover {
     transition: false;
     cursor: pointer;
   }
-<<<<<<< HEAD
-  /* line 634, ../sass/partials/_home.scss */
-=======
   /* line 764, ../sass/partials/_home.scss */
->>>>>>> master
   section.work a .work-img {
     background-position: center center;
     background-size: cover;
@@ -1980,25 +1656,6 @@ footer .footer-links li a:hover {
     -webkit-transition: false;
     transition: false;
   }
-<<<<<<< HEAD
-  /* line 642, ../sass/partials/_home.scss */
-  section.work a .work-img.nr-1 {
-    background-image: url(../imgs/pb/img-wallet.jpg);
-  }
-  /* line 645, ../sass/partials/_home.scss */
-  section.work a .work-img.nr-2 {
-    background-image: url(../imgs/pb/img-alertas.jpg);
-  }
-  /* line 648, ../sass/partials/_home.scss */
-  section.work a .work-img.nr-3 {
-    background-image: url(../imgs/pb/img-afm.jpg);
-  }
-  /* line 651, ../sass/partials/_home.scss */
-  section.work a .work-img.nr-4 {
-    background-image: url(../imgs/pb/img-ca.jpg);
-  }
-  /* line 655, ../sass/partials/_home.scss */
-=======
   /* line 772, ../sass/partials/_home.scss */
   section.work a .work-img.nr-1 {
     background-image: url(../imgs/pb/img-wallet.jpg);
@@ -2016,7 +1673,6 @@ footer .footer-links li a:hover {
     background-image: url(../imgs/pb/img-ca.jpg);
   }
   /* line 785, ../sass/partials/_home.scss */
->>>>>>> master
   section.work a.link-external {
     color: white;
     text-align: center;
@@ -2035,11 +1691,7 @@ footer .footer-links li a:hover {
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
   }
-<<<<<<< HEAD
-  /* line 663, ../sass/partials/_home.scss */
-=======
   /* line 793, ../sass/partials/_home.scss */
->>>>>>> master
   section.work a.link-external .icon-dribbble {
     width: 47px;
     height: 46px;
@@ -2047,19 +1699,11 @@ footer .footer-links li a:hover {
     display: block;
     margin: 0 auto 15px;
   }
-<<<<<<< HEAD
-  /* line 670, ../sass/partials/_home.scss */
-  section.work a.link-external:hover {
-    background: #ea4c89;
-  }
-  /* line 676, ../sass/partials/_home.scss */
-=======
   /* line 800, ../sass/partials/_home.scss */
   section.work a.link-external:hover {
     background: #ea4c89;
   }
   /* line 806, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc {
     position: absolute;
     left: 2em;
@@ -2067,301 +1711,177 @@ footer .footer-links li a:hover {
     width: 80%;
     color: white;
   }
-<<<<<<< HEAD
-  /* line 682, ../sass/partials/_home.scss */
-=======
   /* line 812, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .stagged {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
     opacity: 0;
   }
-<<<<<<< HEAD
-  /* line 685, ../sass/partials/_home.scss */
-  section.work .work-desc .work-icon {
-    display: block;
-  }
-  /* line 687, ../sass/partials/_home.scss */
-=======
   /* line 815, ../sass/partials/_home.scss */
   section.work .work-desc .work-icon {
     display: block;
   }
   /* line 817, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .work-icon.wallet {
     background: transparent url(../imgs/svg/icon_wallet.svg) no-repeat 0 0;
     width: 41px;
     height: 36px;
   }
-<<<<<<< HEAD
-  /* line 692, ../sass/partials/_home.scss */
-=======
   /* line 822, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .work-icon.alertas {
     background: transparent url(../imgs/svg/icon_sapo.svg) no-repeat 0 0;
     width: 50px;
     height: 31px;
   }
-<<<<<<< HEAD
-  /* line 697, ../sass/partials/_home.scss */
-=======
   /* line 827, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .work-icon.afm {
     background: transparent url(../imgs/svg/icon_afm.svg) no-repeat 0 0;
     width: 44px;
     height: 44px;
   }
-<<<<<<< HEAD
-  /* line 702, ../sass/partials/_home.scss */
-=======
   /* line 832, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .work-icon.ca {
     background: transparent url(../imgs/svg/icon_ca.svg) no-repeat 0 0;
     width: 36px;
     height: 41px;
   }
-<<<<<<< HEAD
-  /* line 708, ../sass/partials/_home.scss */
-=======
   /* line 838, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc .work-name {
     font-size: 1.5em;
     margin: 4px 0 0px 0;
   }
-<<<<<<< HEAD
-  /* line 712, ../sass/partials/_home.scss */
-=======
   /* line 842, ../sass/partials/_home.scss */
->>>>>>> master
   section.work .work-desc p {
     margin: 0;
     text-transform: uppercase;
     font-size: 0.75em;
   }
 
-<<<<<<< HEAD
-  /* line 721, ../sass/partials/_home.scss */
-=======
   /* line 851, ../sass/partials/_home.scss */
->>>>>>> master
   .w-33 {
     width: 33%;
   }
 
-<<<<<<< HEAD
-  /* line 724, ../sass/partials/_home.scss */
-=======
   /* line 854, ../sass/partials/_home.scss */
->>>>>>> master
   .pad-0 {
     padding: 0 !important;
   }
 
-<<<<<<< HEAD
-  /* line 728, ../sass/partials/_home.scss */
-=======
   /* line 858, ../sass/partials/_home.scss */
->>>>>>> master
   .gd-pos-1 {
     float: left;
     width: 29%;
     padding: 1px;
   }
 
-<<<<<<< HEAD
-  /* line 733, ../sass/partials/_home.scss */
-=======
   /* line 863, ../sass/partials/_home.scss */
->>>>>>> master
   .gd-pos-2 {
     float: left;
     width: 38%;
   }
 
-<<<<<<< HEAD
-  /* line 737, ../sass/partials/_home.scss */
-=======
   /* line 867, ../sass/partials/_home.scss */
->>>>>>> master
   .gd-pos-3 {
     float: left;
     width: 33%;
   }
 
-<<<<<<< HEAD
-  /* line 742, ../sass/partials/_home.scss */
-  .tookit-container {
-    margin-top: 5em;
-  }
-  /* line 744, ../sass/partials/_home.scss */
-=======
   /* line 872, ../sass/partials/_home.scss */
   .tookit-container {
     margin-top: 5em;
   }
   /* line 874, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool {
     float: left;
     display: block;
     margin-right: 40px;
   }
-<<<<<<< HEAD
-  /* line 748, ../sass/partials/_home.scss */
-=======
   /* line 878, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-1 {
     width: 63px;
     height: 63px;
     background: transparent url(../imgs/svg/icon_photoshop.svg) no-repeat 0 0;
   }
-<<<<<<< HEAD
-  /* line 753, ../sass/partials/_home.scss */
-=======
   /* line 883, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-2 {
     width: 63px;
     height: 63px;
     background: transparent url(../imgs/svg/icon_illustrator.svg) no-repeat 0 0;
   }
-<<<<<<< HEAD
-  /* line 758, ../sass/partials/_home.scss */
-=======
   /* line 888, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-3 {
     width: 60px;
     height: 65px;
     background: transparent url(../imgs/svg/icon_html.svg) no-repeat 0 0;
   }
-<<<<<<< HEAD
-  /* line 763, ../sass/partials/_home.scss */
-=======
   /* line 893, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-4 {
     width: 60px;
     height: 66px;
     background: transparent url(../imgs/svg/icon_css.svg) no-repeat 0 0;
   }
-<<<<<<< HEAD
-  /* line 768, ../sass/partials/_home.scss */
-=======
   /* line 898, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-5 {
     width: 60px;
     height: 66px;
     background: transparent url(../imgs/svg/icon_js.svg) no-repeat 0 0;
   }
-<<<<<<< HEAD
-  /* line 773, ../sass/partials/_home.scss */
-=======
   /* line 903, ../sass/partials/_home.scss */
->>>>>>> master
   .tookit-container .tool.kit-6 {
     width: 65px;
     height: 65px;
     background: transparent url(../imgs/svg/icon_wordpress.svg) no-repeat 0 0;
   }
 
-<<<<<<< HEAD
-  /* line 785, ../sass/partials/_home.scss */
-=======
   /* line 915, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_art-direction .anim-el {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 790, ../sass/partials/_home.scss */
-=======
   /* line 920, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_strategy .anim-el-1,
   #icon_strategy .anim-el-2 {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 796, ../sass/partials/_home.scss */
-=======
   /* line 926, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_digital-experiences .anim-el {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 801, ../sass/partials/_home.scss */
-=======
   /* line 931, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_branding .anim-el-1,
   #icon_branding .anim-el-2 {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 807, ../sass/partials/_home.scss */
-=======
   /* line 937, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_ux-ui-design .anim-el {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 812, ../sass/partials/_home.scss */
-=======
   /* line 942, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_interaction .anim-el {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 817, ../sass/partials/_home.scss */
-=======
   /* line 947, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_concept-work .anim-el-1,
   #icon_concept-work .anim-el-2 {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 823, ../sass/partials/_home.scss */
-=======
   /* line 953, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_web .anim-el {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 828, ../sass/partials/_home.scss */
-=======
   /* line 958, ../sass/partials/_home.scss */
->>>>>>> master
   #icon_visual-design .anim-el-1,
   #icon_visual-design .anim-el-2 {
     display: none;
   }
 
-<<<<<<< HEAD
-  /* line 834, ../sass/partials/_home.scss */
-=======
   /* line 964, ../sass/partials/_home.scss */
->>>>>>> master
   footer {
     height: 550px;
     width: 100%;
@@ -2371,21 +1891,13 @@ footer .footer-links li a:hover {
     background: white;
     z-index: 1;
   }
-<<<<<<< HEAD
-  /* line 843, ../sass/partials/_home.scss */
-=======
   /* line 973, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-text {
     position: relative;
     margin: 6em auto 0 auto;
     width: 100%;
   }
-<<<<<<< HEAD
-  /* line 847, ../sass/partials/_home.scss */
-=======
   /* line 977, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-text .logo {
     margin: 0 auto;
     width: 60px;
@@ -2394,11 +1906,7 @@ footer .footer-links li a:hover {
     background-size: 100%;
     z-index: 2;
   }
-<<<<<<< HEAD
-  /* line 855, ../sass/partials/_home.scss */
-=======
   /* line 985, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-text h2 {
     font: 2em "Droid Serif", serif;
     color: #242429;
@@ -2406,11 +1914,7 @@ footer .footer-links li a:hover {
     margin: 21px 0 0 0;
     font-weight: 400;
   }
-<<<<<<< HEAD
-  /* line 863, ../sass/partials/_home.scss */
-=======
   /* line 993, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-text a.contact {
     text-transform: uppercase;
     text-align: center;
@@ -2420,19 +1924,11 @@ footer .footer-links li a:hover {
     margin: 16px auto 17px auto;
     display: block;
   }
-<<<<<<< HEAD
-  /* line 871, ../sass/partials/_home.scss */
-  footer .footer-text a.contact:hover {
-    color: #478b7f;
-  }
-  /* line 877, ../sass/partials/_home.scss */
-=======
   /* line 1001, ../sass/partials/_home.scss */
   footer .footer-text a.contact:hover {
     color: #478b7f;
   }
   /* line 1007, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-text .divisor {
     display: block;
     width: 35px;
@@ -2440,29 +1936,17 @@ footer .footer-links li a:hover {
     margin: 0 auto;
     background: #b8bec3;
   }
-<<<<<<< HEAD
-  /* line 885, ../sass/partials/_home.scss */
-=======
   /* line 1015, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-links {
     margin: 5em auto 0 auto;
     text-align: center;
   }
-<<<<<<< HEAD
-  /* line 888, ../sass/partials/_home.scss */
-=======
   /* line 1018, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-links li {
     display: inline-block;
     margin: 0 0.8em;
   }
-<<<<<<< HEAD
-  /* line 891, ../sass/partials/_home.scss */
-=======
   /* line 1021, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-links li a {
     text-transform: uppercase;
     text-align: center;
@@ -2472,11 +1956,7 @@ footer .footer-links li a:hover {
     display: block;
     letter-spacing: 1px;
   }
-<<<<<<< HEAD
-  /* line 899, ../sass/partials/_home.scss */
-=======
   /* line 1029, ../sass/partials/_home.scss */
->>>>>>> master
   footer .footer-links li a:hover {
     color: #42b4a2;
   }
