@@ -371,8 +371,8 @@ section{
 		}
 	}
 }
-.tookit-container{
-	margin-top: 5em;
+.toolkit-container{
+	margin-top: 2.5em;
 	ul{
 		width: 100%;
 		margin:0;
@@ -420,7 +420,6 @@ section{
 	}
 }
 footer{
-	
 	//height: 550px;
 	width: 100%;
 	height: auto;
@@ -430,7 +429,7 @@ footer{
 	//bottom: 0;
 	background: $white;
 	z-index: 1;
-	padding-bottom: 5em;
+	padding-bottom: 4em;
 	.footer-text{
 		position: relative;
 		margin: 6em auto 0 auto;
@@ -869,7 +868,7 @@ section{
 	width: 33%;
 }
 
-.tookit-container{
+.toolkit-container{
 	margin-top: 5em;
 	.tool{
 		float: left;
