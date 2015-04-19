@@ -7,7 +7,8 @@
 	// background: $dark-black;
 	
 	.container-home{
-		margin: 0 0 630px;
+		//margin: 0 0 630px;
+		margin: 0;
 		overflow: visible;
 		position: relative;
 		left: 0;
@@ -81,9 +82,12 @@ section{
 		float: left;
 		width: 100%;
 		margin-top: 0;
-		padding-top: 9.5em;
-		height: 535px;
-		margin-bottom: 550px;
+		//padding-top: 9.5em;
+		//height: 535px;
+		padding: 9.5em 0;
+  		height: auto;
+		//margin-bottom: 550px;
+		margin-bottom: 0;
 		top: -4px;
 	}
 	&.work{
@@ -364,6 +368,131 @@ section{
 				margin:0;
 				text-transform: uppercase;
 				font-size: 0.75em;
+			}
+		}
+	}
+}
+.tookit-container{
+	margin-top: 5em;
+	ul{
+		width: 100%;
+		margin:0;
+		padding: 0 2em;
+		float: left;
+		li{
+			list-style: none;
+			width: 50%;
+			float: left;
+			margin-bottom: 2.5em;
+		}
+	}
+	.tool{
+		margin: 0 auto;
+		&.kit-1{
+			width: 63px;
+			height: 63px;
+			background: transparent url(../imgs/svg/icon_photoshop.svg) no-repeat 0 0;
+		}
+		&.kit-2{
+			width: 63px;
+			height: 63px;
+			background: transparent url(../imgs/svg/icon_illustrator.svg) no-repeat 0 0;
+		}
+		&.kit-3{
+			width: 60px;
+			height: 65px;
+			background: transparent url(../imgs/svg/icon_html.svg) no-repeat 0 0;
+		}
+		&.kit-4{
+			width: 60px;
+			height: 66px;
+			background: transparent url(../imgs/svg/icon_css.svg) no-repeat 0 0;
+		}
+		&.kit-5{
+			width: 60px;
+			height: 66px;
+			background: transparent url(../imgs/svg/icon_js.svg) no-repeat 0 0;
+		}
+		&.kit-6{
+			width: 65px;
+			height: 65px;
+			background: transparent url(../imgs/svg/icon_wordpress.svg) no-repeat 0 0;
+		}
+	}
+}
+footer{
+	//height: 550px;
+	width: 100%;
+	height: auto;
+	//position: fixed;
+	position: relative;
+	//left: 0;
+	//bottom: 0;
+	background: $white;
+	z-index: 1;
+	padding-bottom: 5em;
+	.footer-text{
+		position: relative;
+		margin: 6em auto 0 auto;
+		width: 100%;
+		.logo{
+			margin: 0 auto;
+			width: 60px;
+			height: 60px;
+			background: transparent url(../imgs/pb/logo@2x.png) no-repeat center top;
+			background-size: 100%;
+			z-index: 2;
+		}
+		h2{
+			//font: 2em $secundary-font;
+			font: 1.5em $secundary-font;
+			color: $dark-grey;
+			text-align: center;
+			margin: 21px 0 0 0;
+			font-weight: 400;
+		}
+		a{
+			&.contact{
+				text-transform: uppercase;
+				text-align: center;
+				font-family: $primary-font;
+				font-size: 0.9em;
+				color: $primary-color;
+				margin: 16px auto 17px auto;
+				display: block;
+				&:hover{
+					color: $dark-green-color;
+				}
+			}
+			
+		}
+		.divisor{
+			display: block;
+			width: 35px;
+			height: 2px;
+			margin: 0 auto;
+			background: $grey-color;
+		}
+	}
+	.footer-links{
+		//margin: 5em auto 0 auto;
+		margin: 4em auto 0 auto;
+		text-align: center;
+		li{
+			display: inline-block;
+			//margin: 0 0.8em;
+			margin: 0 0.8em 1em;
+			a{
+				text-transform: uppercase;
+				text-align: center;
+				font-family: $primary-font;
+				font-size: 0.75em;
+				color: $grey-color;
+				display: block;
+				letter-spacing: 1px;
+				&:hover{
+					color: $primary-color;
+				}
 			}
 		}
 	}
