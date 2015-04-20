@@ -869,7 +869,7 @@ section.work {
   margin-bottom: 1em;
 }
 /* line 106, ../sass/partials/_home.scss */
-.section-legend p {
+.section-legend h6 {
   font-style: italic;
   text-align: center;
   font-family: "Droid Serif", serif;
@@ -1376,7 +1376,7 @@ footer .footer-links li a:hover {
     float: right;
   }
   /* line 563, ../sass/partials/_home.scss */
-  .section-legend p {
+  .section-legend h6 {
     padding-left: 30px;
   }
   /* line 566, ../sass/partials/_home.scss */
@@ -1400,42 +1400,42 @@ footer .footer-links li a:hover {
     height: 44px;
   }
 
-  /* line 586, ../sass/partials/_home.scss */
+  /* line 585, ../sass/partials/_home.scss */
   .speciality-content {
     margin-top: 5em;
     margin-left: -10px;
   }
-  /* line 589, ../sass/partials/_home.scss */
+  /* line 588, ../sass/partials/_home.scss */
   .speciality-content li {
     display: inline-block;
     width: 32%;
     text-align: left;
   }
-  /* line 593, ../sass/partials/_home.scss */
+  /* line 592, ../sass/partials/_home.scss */
   .speciality-content li .icon {
     margin: 0;
   }
-  /* line 595, ../sass/partials/_home.scss */
+  /* line 594, ../sass/partials/_home.scss */
   .speciality-content li .icon p {
     text-align: left;
   }
-  /* line 599, ../sass/partials/_home.scss */
+  /* line 598, ../sass/partials/_home.scss */
   .speciality-content li .icon.art-direction svg {
     margin-left: 0;
   }
-  /* line 606, ../sass/partials/_home.scss */
+  /* line 605, ../sass/partials/_home.scss */
   .speciality-content li .icon.branding svg, .speciality-content li .icon.web svg, .speciality-content li .icon.visual-design svg {
     margin-left: 0;
   }
 
-  /* line 616, ../sass/partials/_home.scss */
+  /* line 615, ../sass/partials/_home.scss */
   section.work a {
     -moz-transition: false;
     -o-transition: false;
     -webkit-transition: false;
     transition: false;
   }
-  /* line 618, ../sass/partials/_home.scss */
+  /* line 617, ../sass/partials/_home.scss */
   section.work a .work-img {
     -moz-transition: false;
     -o-transition: false;
@@ -1444,130 +1444,130 @@ footer .footer-links li a:hover {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
     opacity: 0.4;
   }
-  /* line 622, ../sass/partials/_home.scss */
+  /* line 621, ../sass/partials/_home.scss */
   section.work a.link-external {
     padding-top: 130px;
     background-color: #242429;
   }
-  /* line 627, ../sass/partials/_home.scss */
+  /* line 626, ../sass/partials/_home.scss */
   section.work a.link-external:hover {
     background: #ea4c89;
   }
-  /* line 631, ../sass/partials/_home.scss */
+  /* line 630, ../sass/partials/_home.scss */
   section.work a .mobile-mask {
     display: none;
   }
-  /* line 635, ../sass/partials/_home.scss */
+  /* line 634, ../sass/partials/_home.scss */
   section.work .work-desc {
     bottom: 2em;
   }
 
-  /* line 641, ../sass/partials/_home.scss */
+  /* line 640, ../sass/partials/_home.scss */
   .pad-0 {
     padding: 0 !important;
   }
 
-  /* line 645, ../sass/partials/_home.scss */
+  /* line 644, ../sass/partials/_home.scss */
   .gd-pos-1 {
     float: left;
     width: 29%;
     padding: 1px;
   }
 
-  /* line 650, ../sass/partials/_home.scss */
+  /* line 649, ../sass/partials/_home.scss */
   .gd-pos-2 {
     float: left;
     width: 38%;
   }
 
-  /* line 654, ../sass/partials/_home.scss */
+  /* line 653, ../sass/partials/_home.scss */
   .gd-pos-3 {
     float: left;
     width: 33%;
   }
 
-  /* line 659, ../sass/partials/_home.scss */
+  /* line 658, ../sass/partials/_home.scss */
   .toolkit-container {
     margin-top: 2.5em;
   }
-  /* line 661, ../sass/partials/_home.scss */
+  /* line 660, ../sass/partials/_home.scss */
   .toolkit-container ul {
     padding: 3em 0;
   }
-  /* line 663, ../sass/partials/_home.scss */
+  /* line 662, ../sass/partials/_home.scss */
   .toolkit-container ul li {
     width: auto;
     margin-right: 40px;
   }
-  /* line 668, ../sass/partials/_home.scss */
+  /* line 667, ../sass/partials/_home.scss */
   .toolkit-container .tool {
     margin: 0;
   }
 
-  /* line 673, ../sass/partials/_home.scss */
+  /* line 672, ../sass/partials/_home.scss */
   footer {
     height: 550px;
     position: fixed;
     left: 0;
     bottom: 0;
   }
-  /* line 679, ../sass/partials/_home.scss */
+  /* line 678, ../sass/partials/_home.scss */
   footer .footer-text h2 {
     font: 2em "Droid Serif", serif;
   }
-  /* line 683, ../sass/partials/_home.scss */
+  /* line 682, ../sass/partials/_home.scss */
   footer .footer-links {
     margin: 5em auto 0 auto;
   }
-  /* line 685, ../sass/partials/_home.scss */
+  /* line 684, ../sass/partials/_home.scss */
   footer .footer-links li {
     margin: 0 0.8em;
   }
 
-  /* line 694, ../sass/partials/_home.scss */
+  /* line 693, ../sass/partials/_home.scss */
   #icon_art-direction .anim-el {
     display: none;
   }
 
-  /* line 699, ../sass/partials/_home.scss */
+  /* line 698, ../sass/partials/_home.scss */
   #icon_strategy .anim-el-1,
   #icon_strategy .anim-el-2 {
     display: none;
   }
 
-  /* line 705, ../sass/partials/_home.scss */
+  /* line 704, ../sass/partials/_home.scss */
   #icon_digital-experiences .anim-el {
     display: none;
   }
 
-  /* line 710, ../sass/partials/_home.scss */
+  /* line 709, ../sass/partials/_home.scss */
   #icon_branding .anim-el-1,
   #icon_branding .anim-el-2 {
     display: none;
   }
 
-  /* line 716, ../sass/partials/_home.scss */
+  /* line 715, ../sass/partials/_home.scss */
   #icon_ux-ui-design .anim-el {
     display: none;
   }
 
-  /* line 721, ../sass/partials/_home.scss */
+  /* line 720, ../sass/partials/_home.scss */
   #icon_interaction .anim-el {
     display: none;
   }
 
-  /* line 726, ../sass/partials/_home.scss */
+  /* line 725, ../sass/partials/_home.scss */
   #icon_concept-work .anim-el-1,
   #icon_concept-work .anim-el-2 {
     display: none;
   }
 
-  /* line 732, ../sass/partials/_home.scss */
+  /* line 731, ../sass/partials/_home.scss */
   #icon_web .anim-el {
     display: none;
   }
 
-  /* line 737, ../sass/partials/_home.scss */
+  /* line 736, ../sass/partials/_home.scss */
   #icon_visual-design .anim-el-1,
   #icon_visual-design .anim-el-2 {
     display: none;

@@ -103,7 +103,7 @@ section{
 	width: 100%;
 	float: left;
 	margin-bottom: 1em;
-	p{
+	h6{
 		font-style: italic;
 		text-align: center;
 		font-family: $secundary-font;
@@ -560,7 +560,7 @@ section{
 .section-legend{
 	width: 50%;
   	float: right;
-  	p{
+  	h6{
   		padding-left: 30px;
   	}
 	.divisor{
@@ -582,7 +582,6 @@ section{
 		}
 	}
 }
-
 .speciality-content{
 	margin-top: 5em;
 	margin-left: -10px;
