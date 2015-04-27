@@ -1,6 +1,36 @@
 // Landing Page
 $(document).ready(function() {
 
+	// var button = document.querySelector('.btn-resume');
+	// var circle = document.querySelector('.circle');
+
+	// button.onmouseenter = function (ev) {
+	//     var rect = button.getBoundingClientRect()
+
+	//     var x = ev.clientX - rect.left;
+	//     var y = ev.clientY - rect.top;
+
+	//     circle.style.left = x + 'px';
+	//     circle.style.top = y + 'px';
+	// }
+
+	// button.onmouseleave = function () {
+	//     circle.style.left = '';  /* back to "-999px" */
+	// }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	// function animInnerCircle1(){
 		
 	// }
