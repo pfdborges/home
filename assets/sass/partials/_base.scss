@@ -19,17 +19,6 @@ body{
 	font-weight: 400;
 }
 
-// p{
-// 	//background: $light-grey;
-// 	font-family: $primary-font;
-// 	font-size: 85%;
-// 	line-height: 2em;
-// 	font-weight: bold;
-// 	color: $text-color;
-// 	padding: $unit_one-em;
-// 	//min-height:120px;
-// }
-
 a{
 	@include transition-property(all);
 	@include transition-duration(.25s);

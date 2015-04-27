@@ -3,10 +3,7 @@
 *********************************************************************************************/
 
 .home{
-	// background: transparent url(../imgs/pb/mira_bg.jpg) no-repeat center top;
-	
 	.container-home{
-		//margin: 0 0 630px;
 		margin: 0;
 		overflow: visible;
 		position: relative;
@@ -20,42 +17,34 @@
 			position: absolute;
 			top: 0;
 			background: transparent url(../imgs/pb/foto-top.jpg) no-repeat center top;
-			//background-size: cover;
 			background-size: 250%;
 			height: 845px;
 			width: 100%;
 		}
-		
 		.intro-text{
 			position: relative;
-			//margin: 24.3em auto 0 auto;
 			margin: 15em auto 0 auto;
 			z-index: 4;
-			//width: 60%;
 			width: 100%;
 			.logo{
 				margin: 0 auto;
 				width: 60px;
 				height: 60px;
 				background: transparent url(../imgs/pb/logo@2x.png) no-repeat center top;
-				//background-size: 100%;
 				background-size: 85%;
 				z-index: 2;
 			}
 			h1{
-				//font: 4em $primary-font;
 				font: 1.8em $primary-font;
 				color: $white;
 				text-align: center;
 				text-transform: uppercase;
-				//margin: 13px 0 0 0;
 				margin: 5px 0 5px 0;
 				letter-spacing: -1px;
 			}
 			p{
 				text-align: center;
 				font-family: $secundary-font;
-				//font-size: 1.2em;
 				font-size: 1em;
 				color: $secundary-color;
 				font-weight: 400;
@@ -81,11 +70,8 @@ section{
 		float: left;
 		width: 100%;
 		margin-top: 0;
-		//padding-top: 9.5em;
-		//height: 535px;
 		padding: 9.5em 0;
   		height: auto;
-		//margin-bottom: 550px;
 		margin-bottom: 0;
 		top: -4px;
 	}
@@ -103,7 +89,10 @@ section{
 	width: 100%;
 	float: left;
 	margin-bottom: 2em;
-	&.m-fix{
+	&.m-fix-3{
+		margin-bottom: 3em;
+	}
+	&.m-fix-4{
 		margin-bottom: 4em;
 	}
 	h6{
@@ -116,12 +105,10 @@ section{
 		margin: 0px auto;
 	}
 	.divisor{
-		//width: 100px;
 		width: 35px;
 		height: 2px;
 		position: relative;
 		top: 18px;
-		//right: -68px;
 		margin: 0 auto;
 		display: block;
 		background: $sections-tittle;
@@ -129,13 +116,10 @@ section{
 }
 .who-am-i{
 	float: left;
-	//padding: 4em 10em 0 0;
-	padding: 1em;	
-	//margin-left: -10px;
+	padding: 1em;
 	color: $white;
 	p{
 		margin: 4px 0 12px;
-		//line-height: 34px;
 		line-height: 29px;
 		font-size: .95em;
 		a{
@@ -153,8 +137,6 @@ section{
 			font-size: 0.85em;
 			border: 1px solid $primary-color;
 			padding: 0.7em 1.5em;
-			// width: 170px;
-			//height: 41px;
 			width: 100%;
 			height: 46px;
 			margin-top: 2em;
@@ -170,14 +152,11 @@ section{
 	}
 }
 .speciality-content{
-	//margin-top: 5em;
 	margin-top: 1.5em;
-	//margin-left: -10px;
+	float: left;
 	li{
-		//display: inline-block;
 		display: block;
 		float: left;
-		//width: 32%;
 		width: 100%;
 		margin-bottom: 4.5em;
 		text-align: center;
@@ -257,9 +236,7 @@ section{
 			&.link-external{
 				color: $white;
 				text-align: center;
-				//padding-top: 130px;
 				padding-top: 122px;
-				//background-color: $dark-grey;
 				background: $dribbble-color;
 				@include transition-property(all);
 				@include transition-duration(.25s);
@@ -271,25 +248,11 @@ section{
 					display: block;
 					margin: 0 auto 15px;
 				}
-				// &:hover{
-				// 	background: $dribbble-color;
-				// }
 			}
-			// .mobile-mask{
-			// 	position: absolute;
-			// 	width: 100%;
-			// 	height:100%;
-			// 	bottom:0;
-			// 	left:0;
-			// 	background: transparent url(../imgs/pb/mobile-mask.png) repeat-x 0 0;
-			// 	display: block;
-			// }
-			
 		}
 		.work-desc{
 			position: absolute;
 			left: 2em;
-			//bottom: 2em;
 			top: 7em;
 			width: 80%;
 			color: $white;
@@ -379,13 +342,9 @@ section{
 	}
 }
 footer{
-	//height: 550px;
 	width: 100%;
 	height: auto;
-	//position: fixed;
 	position: relative;
-	//left: 0;
-	//bottom: 0;
 	background: $white;
 	z-index: 1;
 	padding-bottom: 4em;
@@ -402,7 +361,6 @@ footer{
 			z-index: 2;
 		}
 		h2{
-			//font: 2em $secundary-font;
 			font: 1.5em $secundary-font;
 			color: $dark-grey;
 			text-align: center;
@@ -422,7 +380,6 @@ footer{
 					color: $dark-green-color;
 				}
 			}
-			
 		}
 		.divisor{
 			display: block;
@@ -433,12 +390,10 @@ footer{
 		}
 	}
 	.footer-links{
-		//margin: 5em auto 0 auto;
 		margin: 4em auto 0 auto;
 		text-align: center;
 		li{
 			display: inline-block;
-			//margin: 0 0.8em;
 			margin: 0 0.8em 1em;
 			a{
 				text-transform: uppercase;
@@ -455,18 +410,89 @@ footer{
 		}
 	}
 }
+
+
+@media screen and (min-width: 380px) and (max-width: 719px) {
+	.home{
+		.container-home{
+			.top-img{
+				background-size: 130%;
+			}
+		}
+	}
+}
+
+
 /********************************************************************************************* 
   720px+
 *********************************************************************************************/
 
-@media (min-width: 768px) {
-	// section.toolkit{
-	// 	background: red;
-	// }
-}
-
 @media (min-width: 720px) {
-
+	.home{
+		.container-home{
+			.top-img{
+				background-size: 120%;
+			}
+			.intro-text{
+				h1{
+					font: 3em $primary-font;
+				}
+				p{
+					font-size: 1.1em;
+				}
+			}
+		}
+	}
+	.who-am-i{
+		padding: 1em 4em;
+		p{
+			margin-bottom: 20px;
+			line-height: 35px;
+			font-size: 1.1em;
+		}
+		a{
+			&.btn-resume{
+				width: 221px;
+				margin-left: 1px;
+			}
+		}
+	}
+	.speciality-content{
+		padding-left: 8%;
+		li {
+			width: 45%;
+			&:last-child{
+				display: none;
+			}
+		}
+	}
+	.full-width{
+		.first-row{
+	  		width: 100%;
+		}
+		.second-row{
+	  		width: 100%;
+		}
+	}
+	section{
+		&.work{
+			a{
+				width: 50%;
+				&.link-external{
+					width: 100%;
+					height: 200px;
+					padding-top: 57px;
+				}
+			}
+		}
+	}
+	.toolkit-container{
+		ul{
+			li{
+				width: 16%;
+			}
+		}
+	}
 }
 	
 /********************************************************************************************* 
@@ -486,8 +512,6 @@ footer{
 
 
 .home{
-	// background: transparent url(../imgs/pb/mira_bg.jpg) no-repeat center top;
-	
 	.container-home{
 		margin: 0 0 630px;
 		.top-img{
@@ -536,6 +560,7 @@ section{
 .who-am-i{
 	padding: 2.5em 10em 0 0;	
 	margin-left: -10px;
+	font-size: .95em;
 	p{
 		line-height: 34px;
 	}
@@ -548,8 +573,9 @@ section{
 }
 
 .speciality-content{
-	margin-top: 5em;
+	margin-top: 1em;
 	margin-left: -10px;
+	padding-left: 0;
 	li{
 		display: inline-block;
 		width: 32%;
@@ -578,11 +604,10 @@ section{
 section{
 	&.work{
 		a{
-
+			width: 100%;
 			@include transition-property(all);
 			@include transition-duration(.25s);
 			@include transition-timing-function(ease-out);
-
 			.work-img{
 				//@include transition(false);
 				background-size: 100% 100%;
@@ -594,8 +619,7 @@ section{
 			&.link-external{
 				padding-top: 130px;
 				background-color: $dark-grey;
-				.icon-dribbble{
-				}
+				height: 340px;
 				&:hover{
 					background: $dribbble-color;
 				}
@@ -665,7 +689,6 @@ section{
 				}
 			}
 		}
-		
 	}
 }
 
@@ -697,7 +720,7 @@ section{
 .toolkit-container{
 	margin-top: 2.5em;
 	ul{
-		padding: 3em 0;
+		padding: 0;
 		li{
 			width: auto;
 			margin-right: 40px;
