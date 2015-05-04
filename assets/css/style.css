@@ -641,134 +641,8 @@ a {
   text-decoration: none;
 }
 
-@-moz-keyframes zoom-in {
-  /* line 3, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 9, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
-@-webkit-keyframes zoom-in {
-  /* line 3, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 9, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
-@keyframes zoom-in {
-  /* line 3, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 9, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
-@-moz-keyframes zoom-out {
-  /* line 17, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 23, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
-@-webkit-keyframes zoom-out {
-  /* line 17, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 23, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
-@keyframes zoom-out {
-  /* line 17, ../sass/partials/_animations.scss */
-  0% {
-    -webkit-transform: scale(20);
-    opacity: 1;
-    transform: scale(20);
-    opacity: 1;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-
-  /* line 23, ../sass/partials/_animations.scss */
-  100% {
-    -webkit-transform: scale(1);
-    opacity: 0;
-    transform: scale(1);
-    opacity: 0;
-    -webkit-transition-timing-function: ease-in;
-    transition-timing-function: ease-in;
-  }
-}
 @-moz-keyframes anim1 {
-  /* line 32, ../sass/partials/_animations.scss */
+  /* line 3, ../sass/partials/_animations.scss */
   0% {
     -moz-transform: scale(0);
     transform: scale(0);
@@ -777,7 +651,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 37, ../sass/partials/_animations.scss */
+  /* line 8, ../sass/partials/_animations.scss */
   50% {
     -moz-transform: scale(1);
     transform: scale(1);
@@ -786,7 +660,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 42, ../sass/partials/_animations.scss */
+  /* line 13, ../sass/partials/_animations.scss */
   100% {
     -moz-transform: scale(0);
     transform: scale(0);
@@ -796,7 +670,7 @@ a {
   }
 }
 @-webkit-keyframes anim1 {
-  /* line 32, ../sass/partials/_animations.scss */
+  /* line 3, ../sass/partials/_animations.scss */
   0% {
     -webkit-transform: scale(0);
     transform: scale(0);
@@ -805,7 +679,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 37, ../sass/partials/_animations.scss */
+  /* line 8, ../sass/partials/_animations.scss */
   50% {
     -webkit-transform: scale(1);
     transform: scale(1);
@@ -814,7 +688,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 42, ../sass/partials/_animations.scss */
+  /* line 13, ../sass/partials/_animations.scss */
   100% {
     -webkit-transform: scale(0);
     transform: scale(0);
@@ -824,7 +698,7 @@ a {
   }
 }
 @keyframes anim1 {
-  /* line 32, ../sass/partials/_animations.scss */
+  /* line 3, ../sass/partials/_animations.scss */
   0% {
     -moz-transform: scale(0);
     -ms-transform: scale(0);
@@ -837,7 +711,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 37, ../sass/partials/_animations.scss */
+  /* line 8, ../sass/partials/_animations.scss */
   50% {
     -moz-transform: scale(1);
     -ms-transform: scale(1);
@@ -850,7 +724,7 @@ a {
     transition-timing-function: ease-in;
   }
 
-  /* line 42, ../sass/partials/_animations.scss */
+  /* line 13, ../sass/partials/_animations.scss */
   100% {
     -moz-transform: scale(0);
     -ms-transform: scale(0);
@@ -863,6 +737,268 @@ a {
     transition-timing-function: ease-in;
   }
 }
+/* line 20, ../sass/partials/_animations.scss */
+.animated {
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+/* line 27, ../sass/partials/_animations.scss */
+.animated-slow {
+  -webkit-animation-duration: 3s;
+  animation-duration: 3s;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+
+/* line 34, ../sass/partials/_animations.scss */
+.animated.infinite {
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+}
+
+/* line 39, ../sass/partials/_animations.scss */
+.delay {
+  -webkit-animation-delay: 0.3s;
+  animation-delay: 0.3s;
+}
+
+/* line 43, ../sass/partials/_animations.scss */
+.delay2x {
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
+}
+
+/* line 48, ../sass/partials/_animations.scss */
+.delay3x {
+  -webkit-animation-delay: 0.9s;
+  animation-delay: 0.9s;
+}
+
+/* line 53, ../sass/partials/_animations.scss */
+.pgf-delay1x {
+  -webkit-animation-delay: 0.9s;
+  animation-delay: 0.9s;
+}
+
+/* line 57, ../sass/partials/_animations.scss */
+.pgf-delay2x {
+  -webkit-animation-delay: 1.0s;
+  animation-delay: 1.0s;
+}
+
+/* line 61, ../sass/partials/_animations.scss */
+.pgf-delay3x {
+  -webkit-animation-delay: 1.3s;
+  animation-delay: 1.3s;
+}
+
+/* line 65, ../sass/partials/_animations.scss */
+.pgf-delay4x {
+  -webkit-animation-delay: 1.5s;
+  animation-delay: 1.5s;
+}
+
+/* line 69, ../sass/partials/_animations.scss */
+.pgf-delay5x {
+  -webkit-animation-delay: 2.3s;
+  animation-delay: 2.3s;
+}
+
+@-moz-keyframes fadeIn {
+  /* line 74, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 78, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
+@-webkit-keyframes fadeIn {
+  /* line 74, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 78, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes fadeIn {
+  /* line 74, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+  }
+
+  /* line 78, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+  }
+}
+/* line 93, ../sass/partials/_animations.scss */
+.fadeIn {
+  -webkit-animation-name: fadeIn;
+  animation-name: fadeIn;
+}
+
+@-moz-keyframes fadeInDown {
+  /* line 99, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  /* line 105, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@-webkit-keyframes fadeInDown {
+  /* line 99, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  /* line 105, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@keyframes fadeInDown {
+  /* line 99, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, -100%, 0);
+    transform: translate3d(0, -100%, 0);
+  }
+
+  /* line 105, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+/* line 126, ../sass/partials/_animations.scss */
+.fadeInDown {
+  -webkit-animation-name: fadeInDown;
+  animation-name: fadeInDown;
+}
+
+@-moz-keyframes fadeInUp {
+  /* line 132, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  /* line 138, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@-webkit-keyframes fadeInUp {
+  /* line 132, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  /* line 138, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@keyframes fadeInUp {
+  /* line 132, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(0, 100%, 0);
+    transform: translate3d(0, 100%, 0);
+  }
+
+  /* line 138, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+/* line 159, ../sass/partials/_animations.scss */
+.fadeInUp {
+  -webkit-animation-name: fadeInUp;
+  animation-name: fadeInUp;
+}
+
+@-moz-keyframes fadeInLeft {
+  /* line 165, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+  /* line 171, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@-webkit-keyframes fadeInLeft {
+  /* line 165, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+  /* line 171, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+@keyframes fadeInLeft {
+  /* line 165, ../sass/partials/_animations.scss */
+  0% {
+    opacity: 0;
+    -webkit-transform: translate3d(-100%, 0, 0);
+    transform: translate3d(-100%, 0, 0);
+  }
+
+  /* line 171, ../sass/partials/_animations.scss */
+  100% {
+    opacity: 1;
+    -webkit-transform: none;
+    transform: none;
+  }
+}
+/* line 178, ../sass/partials/_animations.scss */
+.fadeInLeft {
+  -webkit-animation-name: fadeInLeft;
+  animation-name: fadeInLeft;
+}
+
 /********************************************************************************************* 
   Mobile First
 *********************************************************************************************/
