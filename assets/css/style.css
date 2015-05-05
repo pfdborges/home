@@ -41,7 +41,7 @@ Github URI: https://github.com/pfdborges
  * Eric Meyer's Reset CSS v2.0 (http://meyerweb.com/eric/tools/css/reset/)
  * http://cssreset.com
  */
-@import url(../css/vendors/rwdgrid.css);
+@import url(../css/vendors/rwdgrid.min.css);
 /* line 5, ../sass/partials/_reset.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
