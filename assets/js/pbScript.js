@@ -32,7 +32,7 @@
 jQuery(document).ready(function($){
 
 	// media queries
-	var mq = window.matchMedia('(min-width: 720px)');
+	var mq = window.matchMedia('(min-width: 768px)');
 	
 	if(mq.matches) {
 		$(".top-img").addClass("animated-slow fadeIn delay");
