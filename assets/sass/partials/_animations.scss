@@ -41,34 +41,34 @@
           animation-delay: 0.3s;
 }
 .delay2x{
-  -webkit-animation-delay: 0.6s;
-          animation-delay: 0.6s;
+  -webkit-animation-delay: 0.5s;
+          animation-delay: 0.5s;
 }
 
 .delay3x{
-  -webkit-animation-delay: 0.9s;
-          animation-delay: 0.9s;
+  -webkit-animation-delay: 0.7s;
+          animation-delay: 0.7s;
 }
 
 .pgf-delay1x{
-  -webkit-animation-delay: 0.9s;
-          animation-delay: 0.9s;
+  -webkit-animation-delay: 0.4s;
+          animation-delay: 0.4s;
 }
 .pgf-delay2x{
+  -webkit-animation-delay: 0.6s;
+          animation-delay: 0.6s;
+}
+.pgf-delay3x{
+  -webkit-animation-delay: 0.8s;
+          animation-delay: 0.8s;
+}
+.pgf-delay4x{
   -webkit-animation-delay: 1.0s;
           animation-delay: 1.0s;
 }
-.pgf-delay3x{
-  -webkit-animation-delay: 1.3s;
-          animation-delay: 1.3s;
-}
-.pgf-delay4x{
-  -webkit-animation-delay: 1.5s;
-          animation-delay: 1.5s;
-}
 .pgf-delay5x{
-  -webkit-animation-delay: 2.3s;
-          animation-delay: 2.3s;
+  -webkit-animation-delay: 1.2s;
+          animation-delay: 1.2s;
 }
 @include keyframes (fadeIn) {
   0% {

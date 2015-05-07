@@ -476,6 +476,9 @@ footer{
 	}
 	section{
 		&.work{
+			.work-desc{
+				width: 85%;
+			}
 			a{
 				width: 50%;
 				&.link-external{
@@ -610,12 +613,12 @@ section{
 			width: 100%;
 			@include transition-property(all);
 			@include transition-duration(.25s);
-			@include transition-timing-function(ease-out);
+			@include transition-timing-function(ease-in-out);
 			.work-img{
-				//@include transition(false);
-				background-size: 100% 100%;
+				background-size: cover;
 				@include opacity(1);
-				@include transition-property(background-size, opacity);
+				@include scale(1);
+				@include transition-property(all);
 				@include transition-duration(.25s);
 				@include transition-timing-function(ease-in-out);
 			}
@@ -672,7 +675,7 @@ section{
 				.work-img{
 					@include opacity(.4);
 					@include transition-timing-function(ease-in-out);
-					background-size: 110% 110%;
+					@include scale(1.1);
 				}
 				.work-desc{
 					bottom: 2em;
@@ -753,41 +756,6 @@ footer{
 }
 
 // SVG Icons
-
-
-// .speciality-content{
-// 	.icon{
-// 		// @include transition-property(all);
-// 		// @include transition-duration(.25s);
-// 		// @include transition-timing-function(ease-in-out);
-// 		svg{
-// 			&#icon_art-direction{
-// 				.anim-el{
-// 					//display: none;
-// 					// @include transition-property(scale, opacity);
-// 					// @include transition-duration(.25s);
-// 					// @include transition-timing-function(ease-in-out);
-
-// 					@include transform(scale(1));
-// 					@include opacity(1);
-// 				}
-// 			}
-// 		}
-// 		&:hover{
-// 			svg{
-// 				&#icon_art-direction{
-// 					.anim-el{
-// 						//display: none;
-// 						// @include transition-timing-function(ease-in-out);
-// 						// @include transform( scale(1) );
-// 						// @include opacity(1);
-// 						@include animation(anim1 1s infinite ease-in-out);
-// 					}
-// 				}
-// 			}
-// 		}
-// 	}
-// }
 
 
 // #icon_strategy{

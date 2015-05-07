@@ -767,44 +767,44 @@ a {
 
 /* line 43, ../sass/partials/_animations.scss */
 .delay2x {
-  -webkit-animation-delay: 0.6s;
-  animation-delay: 0.6s;
+  -webkit-animation-delay: 0.5s;
+  animation-delay: 0.5s;
 }
 
 /* line 48, ../sass/partials/_animations.scss */
 .delay3x {
-  -webkit-animation-delay: 0.9s;
-  animation-delay: 0.9s;
+  -webkit-animation-delay: 0.7s;
+  animation-delay: 0.7s;
 }
 
 /* line 53, ../sass/partials/_animations.scss */
 .pgf-delay1x {
-  -webkit-animation-delay: 0.9s;
-  animation-delay: 0.9s;
+  -webkit-animation-delay: 0.4s;
+  animation-delay: 0.4s;
 }
 
 /* line 57, ../sass/partials/_animations.scss */
 .pgf-delay2x {
-  -webkit-animation-delay: 1.0s;
-  animation-delay: 1.0s;
+  -webkit-animation-delay: 0.6s;
+  animation-delay: 0.6s;
 }
 
 /* line 61, ../sass/partials/_animations.scss */
 .pgf-delay3x {
-  -webkit-animation-delay: 1.3s;
-  animation-delay: 1.3s;
+  -webkit-animation-delay: 0.8s;
+  animation-delay: 0.8s;
 }
 
 /* line 65, ../sass/partials/_animations.scss */
 .pgf-delay4x {
-  -webkit-animation-delay: 1.5s;
-  animation-delay: 1.5s;
+  -webkit-animation-delay: 1.0s;
+  animation-delay: 1.0s;
 }
 
 /* line 69, ../sass/partials/_animations.scss */
 .pgf-delay5x {
-  -webkit-animation-delay: 2.3s;
-  animation-delay: 2.3s;
+  -webkit-animation-delay: 1.2s;
+  animation-delay: 1.2s;
 }
 
 @-moz-keyframes fadeIn {
@@ -1546,17 +1546,21 @@ footer .footer-links li a:hover {
   }
 
   /* line 479, ../sass/partials/_home.scss */
+  section.work .work-desc {
+    width: 85%;
+  }
+  /* line 482, ../sass/partials/_home.scss */
   section.work a {
     width: 50%;
   }
-  /* line 481, ../sass/partials/_home.scss */
+  /* line 484, ../sass/partials/_home.scss */
   section.work a.link-external {
     width: 100%;
     height: 200px;
     padding-top: 57px;
   }
 
-  /* line 491, ../sass/partials/_home.scss */
+  /* line 494, ../sass/partials/_home.scss */
   .toolkit-container ul li {
     width: 16%;
   }
@@ -1568,109 +1572,109 @@ footer .footer-links li a:hover {
   1200px+
 *********************************************************************************************/
 @media only screen and (min-width: 1200px) {
-  /* line 515, ../sass/partials/_home.scss */
+  /* line 518, ../sass/partials/_home.scss */
   .home .container-home {
     margin: 0 0 630px;
   }
-  /* line 517, ../sass/partials/_home.scss */
+  /* line 520, ../sass/partials/_home.scss */
   .home .container-home .top-img {
     background-size: cover;
   }
-  /* line 520, ../sass/partials/_home.scss */
+  /* line 523, ../sass/partials/_home.scss */
   .home .container-home .intro-text {
     margin: 24.3em auto 0 auto;
     width: 60%;
   }
-  /* line 523, ../sass/partials/_home.scss */
+  /* line 526, ../sass/partials/_home.scss */
   .home .container-home .intro-text .logo {
     background-size: 100%;
   }
-  /* line 526, ../sass/partials/_home.scss */
+  /* line 529, ../sass/partials/_home.scss */
   .home .container-home .intro-text h1 {
     font: 4em "Montserrat", sans-serif;
     margin: 13px 0 0 0;
   }
-  /* line 530, ../sass/partials/_home.scss */
+  /* line 533, ../sass/partials/_home.scss */
   .home .container-home .intro-text p {
     font-size: 1.2em;
   }
 
-  /* line 538, ../sass/partials/_home.scss */
+  /* line 541, ../sass/partials/_home.scss */
   section.toolkit {
     padding-top: 7.5em;
     height: 535px;
     margin-bottom: 550px;
   }
 
-  /* line 545, ../sass/partials/_home.scss */
+  /* line 548, ../sass/partials/_home.scss */
   .section-legend {
     width: 50%;
     float: left;
     margin-left: -10px;
     margin-bottom: 0;
   }
-  /* line 550, ../sass/partials/_home.scss */
+  /* line 553, ../sass/partials/_home.scss */
   .section-legend h6 {
     padding-left: 0;
     text-align: left;
   }
-  /* line 554, ../sass/partials/_home.scss */
+  /* line 557, ../sass/partials/_home.scss */
   .section-legend .divisor {
     width: 35px;
     left: 0;
     margin-left: 0;
   }
 
-  /* line 560, ../sass/partials/_home.scss */
+  /* line 563, ../sass/partials/_home.scss */
   .who-am-i {
     padding: 2.5em 10em 0 0;
     margin-left: -10px;
     font-size: .95em;
   }
-  /* line 564, ../sass/partials/_home.scss */
+  /* line 567, ../sass/partials/_home.scss */
   .who-am-i p {
     line-height: 34px;
   }
-  /* line 568, ../sass/partials/_home.scss */
+  /* line 571, ../sass/partials/_home.scss */
   .who-am-i a.btn-resume {
     width: 175px;
     height: 44px;
   }
 
-  /* line 575, ../sass/partials/_home.scss */
+  /* line 578, ../sass/partials/_home.scss */
   .speciality-content {
     margin-top: 1em;
     margin-left: -10px;
     padding-left: 0;
   }
-  /* line 579, ../sass/partials/_home.scss */
+  /* line 582, ../sass/partials/_home.scss */
   .speciality-content li {
     display: inline-block;
     width: 32%;
     text-align: left;
   }
-  /* line 583, ../sass/partials/_home.scss */
+  /* line 586, ../sass/partials/_home.scss */
   .speciality-content li:last-child {
     display: block;
   }
-  /* line 586, ../sass/partials/_home.scss */
+  /* line 589, ../sass/partials/_home.scss */
   .speciality-content li .icon {
     margin: 0;
   }
-  /* line 588, ../sass/partials/_home.scss */
+  /* line 591, ../sass/partials/_home.scss */
   .speciality-content li .icon p {
     text-align: left;
   }
-  /* line 592, ../sass/partials/_home.scss */
+  /* line 595, ../sass/partials/_home.scss */
   .speciality-content li .icon.art-direction svg {
     margin-left: 0;
   }
-  /* line 599, ../sass/partials/_home.scss */
+  /* line 602, ../sass/partials/_home.scss */
   .speciality-content li .icon.branding svg, .speciality-content li .icon.web svg, .speciality-content li .icon.visual-design svg {
     margin-left: 0;
   }
 
-  /* line 609, ../sass/partials/_home.scss */
+  /* line 612, ../sass/partials/_home.scss */
   section.work a {
     width: 100%;
     -moz-transition-property: all;
@@ -1681,20 +1685,24 @@ footer .footer-links li a:hover {
     -o-transition-duration: 0.25s;
     -webkit-transition-duration: 0.25s;
     transition-duration: 0.25s;
-    -moz-transition-timing-function: ease-out;
-    -o-transition-timing-function: ease-out;
-    -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;
+    -moz-transition-timing-function: ease-in-out;
+    -o-transition-timing-function: ease-in-out;
+    -webkit-transition-timing-function: ease-in-out;
+    transition-timing-function: ease-in-out;
   }
-  /* line 614, ../sass/partials/_home.scss */
+  /* line 617, ../sass/partials/_home.scss */
   section.work a .work-img {
-    background-size: 100% 100%;
+    background-size: cover;
     filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
     opacity: 1;
-    -moz-transition-property: background-size, opacity;
-    -o-transition-property: background-size, opacity;
-    -webkit-transition-property: background-size, opacity;
-    transition-property: background-size, opacity;
+    -moz-transform: scale(1, 1);
+    -ms-transform: scale(1, 1);
+    -webkit-transform: scale(1, 1);
+    transform: scale(1, 1);
+    -moz-transition-property: all;
+    -o-transition-property: all;
+    -webkit-transition-property: all;
+    transition-property: all;
     -moz-transition-duration: 0.25s;
     -o-transition-duration: 0.25s;
     -webkit-transition-duration: 0.25s;
@@ -1704,25 +1712,25 @@ footer .footer-links li a:hover {
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
   }
-  /* line 622, ../sass/partials/_home.scss */
+  /* line 625, ../sass/partials/_home.scss */
   section.work a.link-external {
     padding-top: 130px;
     background-color: #242429;
     height: 340px;
   }
-  /* line 626, ../sass/partials/_home.scss */
+  /* line 629, ../sass/partials/_home.scss */
   section.work a.link-external:hover {
     background: #ea4c89;
   }
-  /* line 630, ../sass/partials/_home.scss */
+  /* line 633, ../sass/partials/_home.scss */
   section.work a .mobile-mask {
     display: none;
   }
-  /* line 633, ../sass/partials/_home.scss */
+  /* line 636, ../sass/partials/_home.scss */
   section.work a .work-desc {
     bottom: 2em;
   }
-  /* line 635, ../sass/partials/_home.scss */
+  /* line 638, ../sass/partials/_home.scss */
   section.work a .work-desc .work-icon {
     margin-left: 0;
     text-align: left;
@@ -1744,7 +1752,7 @@ footer .footer-links li a:hover {
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
   }
-  /* line 646, ../sass/partials/_home.scss */
+  /* line 649, ../sass/partials/_home.scss */
   section.work a .work-desc .work-name {
     margin-left: 0;
     text-align: left;
@@ -1770,7 +1778,7 @@ footer .footer-links li a:hover {
     -webkit-transition-delay: 0.1s;
     transition-delay: 0.1s;
   }
-  /* line 658, ../sass/partials/_home.scss */
+  /* line 661, ../sass/partials/_home.scss */
   section.work a .work-desc p {
     margin-left: 2px;
     text-align: left;
@@ -1796,7 +1804,7 @@ footer .footer-links li a:hover {
     -webkit-transition-delay: 0.15s;
     transition-delay: 0.15s;
   }
-  /* line 672, ../sass/partials/_home.scss */
+  /* line 675, ../sass/partials/_home.scss */
   section.work a:hover .work-img {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
     opacity: 0.4;
@@ -1804,25 +1812,28 @@ footer .footer-links li a:hover {
     -o-transition-timing-function: ease-in-out;
     -webkit-transition-timing-function: ease-in-out;
     transition-timing-function: ease-in-out;
-    background-size: 110% 110%;
+    -moz-transform: scale(1.1, 1.1);
+    -ms-transform: scale(1.1, 1.1);
+    -webkit-transform: scale(1.1, 1.1);
+    transform: scale(1.1, 1.1);
   }
-  /* line 677, ../sass/partials/_home.scss */
+  /* line 680, ../sass/partials/_home.scss */
   section.work a:hover .work-desc {
     bottom: 2em;
   }
-  /* line 679, ../sass/partials/_home.scss */
+  /* line 682, ../sass/partials/_home.scss */
   section.work a:hover .work-desc .work-icon {
     bottom: 65px;
     filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
     opacity: 1;
   }
-  /* line 683, ../sass/partials/_home.scss */
+  /* line 686, ../sass/partials/_home.scss */
   section.work a:hover .work-desc .work-name {
     bottom: 22px;
     filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
     opacity: 1;
   }
-  /* line 687, ../sass/partials/_home.scss */
+  /* line 690, ../sass/partials/_home.scss */
   section.work a:hover .work-desc p {
     bottom: 0px;
     filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
@@ -1833,74 +1844,74 @@ footer .footer-links li a:hover {
     transition-property: bottom;
   }
 
-  /* line 698, ../sass/partials/_home.scss */
+  /* line 701, ../sass/partials/_home.scss */
   .no-lm {
     margin-left: -5px;
   }
 
-  /* line 701, ../sass/partials/_home.scss */
+  /* line 704, ../sass/partials/_home.scss */
   .reset-lm {
     margin-left: 0px;
   }
 
-  /* line 705, ../sass/partials/_home.scss */
+  /* line 708, ../sass/partials/_home.scss */
   .pad-0 {
     padding: 0 !important;
   }
 
-  /* line 709, ../sass/partials/_home.scss */
+  /* line 712, ../sass/partials/_home.scss */
   .gd-pos-1 {
     float: left;
     width: 29%;
     padding: 1px;
   }
 
-  /* line 714, ../sass/partials/_home.scss */
+  /* line 717, ../sass/partials/_home.scss */
   .gd-pos-2 {
     float: left;
     width: 38%;
   }
 
-  /* line 718, ../sass/partials/_home.scss */
+  /* line 721, ../sass/partials/_home.scss */
   .gd-pos-3 {
     float: left;
     width: 33%;
   }
 
-  /* line 723, ../sass/partials/_home.scss */
+  /* line 726, ../sass/partials/_home.scss */
   .toolkit-container {
     margin-top: 2.5em;
   }
-  /* line 725, ../sass/partials/_home.scss */
+  /* line 728, ../sass/partials/_home.scss */
   .toolkit-container ul {
     padding: 0;
   }
-  /* line 727, ../sass/partials/_home.scss */
+  /* line 730, ../sass/partials/_home.scss */
   .toolkit-container ul li {
     width: auto;
     margin-right: 40px;
   }
-  /* line 732, ../sass/partials/_home.scss */
+  /* line 735, ../sass/partials/_home.scss */
   .toolkit-container .tool {
     margin: 0;
   }
 
-  /* line 737, ../sass/partials/_home.scss */
+  /* line 740, ../sass/partials/_home.scss */
   footer {
     height: 550px;
     position: fixed;
     left: 0;
     bottom: 0;
   }
-  /* line 743, ../sass/partials/_home.scss */
+  /* line 746, ../sass/partials/_home.scss */
   footer .footer-text h2 {
     font: 2em "Droid Serif", serif;
   }
-  /* line 747, ../sass/partials/_home.scss */
+  /* line 750, ../sass/partials/_home.scss */
   footer .footer-links {
     margin: 5em auto 0 auto;
   }
-  /* line 749, ../sass/partials/_home.scss */
+  /* line 752, ../sass/partials/_home.scss */
   footer .footer-links li {
     margin: 0 0.8em;
   }
